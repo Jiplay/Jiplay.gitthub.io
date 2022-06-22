@@ -6,12 +6,12 @@
   "sort": "created",
   "order": "asc",
   "includeFork": false,
-  "theme": "dark.css",
+  "theme": "light.css",
   "types": [
    "owner"
   ],
   "twitter": null,
-  "linkedin": "https://www.linkedin.com/in/julien-garsia-761992182",
+  "linkedin": "https://www.linkedin.com/in/julien-garsia/",
   "medium": null,
   "dribbble": null
  }
